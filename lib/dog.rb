@@ -1,2 +1,3 @@
-def Dog.class
+Class Dog
+  
 end
